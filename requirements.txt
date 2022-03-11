@@ -1,0 +1,7 @@
+streamlit
+keras
+tensorflow
+opencv-python
+numpy
+streamlit_webrtc
+av
