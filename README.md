@@ -12,7 +12,7 @@ Since there was an soft limit size of 300MB on heroku colud platform to perfectl
 
 Since my model gave application error after deployment because of slug size, my team-mate have trained a model using CNN which gave an accuracy of 66.47% for train data, and 58.19% on test data at 42nd epoc.and we deployed this model on heroku cloud platform where slug size was around 413MB, which successfully deployed and app is facing issue in boot time.
 
-Here is link of CNN model -- https://github.com/sarfaraziqbal/face-emotion-recognition-cnn
+Here is link of CNN model -- https://github.com/yokesh412/emotion-detection
 
 Dependencies
 Tensorlow
@@ -36,7 +36,7 @@ prepare data
 train model
 test it
 dataset -- https://www.kaggle.com/gauravsharma99/fer13-cleaned-dataset
-Transfer-Learning Model -- https://github.com/Apoorva2399/Real-Time-Face-Emotion-Recogniton/blob/main/facial-emotion.ipynb
-Real time face emotion recognition through webcam -- https://github.com/Apoorva2399/Real-Time-Face-Emotion-Recogniton/blob/main/Real%20Time%20Face%20Emotion%20Detection.ipynb
-Run on streamlit app -- https://github.com/Apoorva2399/Real-Time-Face-Emotion-Recogniton/blob/main/app.py
+Transfer-Learning Model -- https://github.com/yokesh412/emotion-detection/blob/main/deeplearningfinalversion.ipynb
+Real time face emotion recognition through webcam --
+Run on streamlit app --https://github.com/yokesh412/emotion-detection/blob/main/FER_WebApp.py
 deploy Your app
